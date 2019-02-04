@@ -47,5 +47,5 @@ boy = base.format(length) + boy
 
 boy += tail.format(PLACE + 38, colour(-1))
 
-with open("generated_%s.svg" % segments, "w") as f:
+with open("results/generated_%s.svg" % segments, "w") as f:
     f.write(boy)
