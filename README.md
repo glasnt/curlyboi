@@ -2,7 +2,7 @@
 
 
 ## Original
-![original](results/original.svg)
+![original](svgs/original.svg)
 
 ## Generated 10 segments
 ![generated](results/generated_10.svg)
